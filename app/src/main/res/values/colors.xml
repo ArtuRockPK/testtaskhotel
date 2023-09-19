@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dot">#38000000</color>
+    <color name="fieldsColor">#F6F6F9</color>
+    <color name="hintText">#A9ABB7</color>
+    <color name="blueButtonBackround">#1A0D72FF</color>
+    <color name="chiptextcolor">#828796</color>
+    <color name="chipBackroundColor">#FBFBFC</color>
+    <color name="redColor">#26EB5757</color>
+
+</resources>

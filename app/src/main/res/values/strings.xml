@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">HotelApp</string>
+    <string name="chooseRoom">К выбору номера</string>
+    <string name="hotel">Отель</string>
+    <string name="mark">mark</string>
+    <string name="holtelName">Steigenberger Makadi</string>
+    <string name="mapLink">Madinat Makadi, Safaga Road, Makadi Bay, Египет</string>
+    <string name="priceInRUB">от ₽</string>
+    <string name="priceComment">за тур с перелётом</string>
+    <string name="aboutHotel">Об отеле</string>
+    <string name="thirdLine">3-я линия</string>
+    <string name="wifi">Платный Wi-Fi в фойе</string>
+    <string name="airoportDistance">30 км до аэропорта</string>
+    <string name="beachDistance">1 км до пляжа</string>
+    <string name="hotelDescription">Отель VIP-класса с собственными гольф полями. Высокий уровнь сервиса. Рекомендуем для респектабельного отдыха. Отель принимает гостей от 18 лет!</string>
+    <string name="comforts">Удобства</string>
+    <string name="comfortsDetails">Самое необходимое</string>
+    <string name="whatadded">Что включено</string>
+    <string name="whataddedComment">Самое необходимое</string>
+    <string name="whatUnAdded">Что не включено</string>
+    <string name="whatUnAddedComment">Самое необходимое</string>
+    <string name="roomTitle">Стандартный с видом на бассейн или сад</string>
+    <string name="allIncludeTag">Всё включено</string>
+    <string name="conditionerTag">Кондиционер</string>
+    <string name="roomDetailsButton">Подробнее о номере</string>
+    <string name="roomPrice">186 600 ₽</string>
+    <string name="roomPriceDetails">за 7 ночей с перелётом</string>
+    <string name="roomChoiseButtonText">Выбрать номер</string>
+    <string name="firstTourist">Первый турист</string>
+    <string name="secondTourist">Второй турист</string>
+    <string name="thirdTourist">Третий турист</string>
+    <string name="fourTourist">Четвёртный турист</string>
+
+
+    <string name="nameInTouristInfo">Имя</string>
+    <string name="lastNameInTouristInfo">Фамилия</string>
+    <string name="dateOfBirthInTouristInfo">Дата рождения</string>
+    <string name="cityzenshipInTouristInfo">Гражданство</string>
+    <string name="passportDataInTouristInfo">Номер загранпаспорта</string>
+    <string name="docValidTillDateInTouristInfo">Срок действия загранпаспорта</string>
+    <string name="screen3Title">Бронирование</string>
+    <string name="addTouristTiltle">Добавить туриста</string>
+    <string name="orderExtraInfo">Подтверждение заказа №104893 может занять некоторое время (от 1 часа до суток). Как только мы получим ответ от туроператора, вам на почту придет уведомление.</string>
+
+
+</resources>
