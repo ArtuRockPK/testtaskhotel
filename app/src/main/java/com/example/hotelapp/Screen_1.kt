@@ -35,7 +35,7 @@ class Screen_1 : AppCompatActivity() {
         viewModel = ViewModelProvider(this)[screen1ViewModel::class.java]
         TabLayoutMediator(findViewById(R.id.into_tab_layout), viewPagerTest)
         { tab, position -> }.attach()
-
+        val zalupa = "Залупа"
         binding.chooseRoomButton.setOnClickListener {
             val runNextActivity = Intent(this, Screen_2::class.java)
             startActivity(runNextActivity)
